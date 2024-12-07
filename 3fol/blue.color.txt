@@ -1,0 +1,1 @@
+This is blue color.txt file create to change bg color to blue  
