@@ -4,9 +4,6 @@
 
 ```
 npm package
-```
-
-```
 pip packages
 ```
 
