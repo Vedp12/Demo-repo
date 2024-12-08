@@ -1,10 +1,7 @@
 this is darktheme repo 
-<<<<<<< HEAD
+
 
 this is main branch about page done.
 
 the login page 
-=======
-a home page done
-the landing page complete 
->>>>>>> darktheme
+
