@@ -1,1 +1,6 @@
 This repo is creted to fix bugs in our program.
+
+1 bug fixex
+2 bug fixex
+3 bug fixex
+4 bug fixex
